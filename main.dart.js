@@ -62860,7 +62860,7 @@ A.OE.prototype={
 $0(){var s=0,r=A.P(t.P)
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
-return A.T(A.zg(A.fF("www.linkedin.com/in/fernando-rodrigues-2257a9203",0,null),B.fR),$async$$0)
+return A.T(A.zg(A.fF("https://linkedin.com/in/fernando-rodrigues-2257a9203/",0,null),B.fR),$async$$0)
 case 2:return A.N(null,r)}})
 return A.O($async$$0,r)},
 $S:36}
